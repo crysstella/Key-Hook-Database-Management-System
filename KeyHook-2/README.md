@@ -4,7 +4,7 @@
 - To improve the time to update all the classes from the tables by using MongoDB.
 - Populate seed data before running the application.
 ### Notice:
-In main.py:
+In `main.py`:
 1. Populate the data to MongoDB by `PopulateData(db)`
 2. Once your program stops running, you should comment out:
    - `PopulateData(db)` function to not put more data in MongoDB.
