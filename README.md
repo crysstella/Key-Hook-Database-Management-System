@@ -1,4 +1,4 @@
-# Key-Hook-Term-Project
+# Key-Hook-Database-Management-System
 The Key Hook project encompasses two phases, each of which involves applying database techniques. Allowing users to insert, update, and delete from the rest of the Key Hook tables. 
 
 **How to approach:** 
